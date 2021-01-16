@@ -7,6 +7,9 @@ run the following commands on your terminal to install it
 ```
 git clone https://github.com/No-Cellist-7780/goddit.git
 ```
+
+make sure that you install it to ```home/user/go/```
+
 or download the binary files from the releases in the github repo
 
 ## Usage 
